@@ -1,4 +1,3 @@
-#Kripa Gurung, gurun041, CSCI 4041
 import platform, traceback
 
 #Takes in a list of Account objects accountList, and if there are at least 2
