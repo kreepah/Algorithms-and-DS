@@ -1,4 +1,3 @@
-gurun041@csel-kh1250-20:~/github/Algorithms-and-DS$ vim PA4.py
 import traceback, turtle, time
 
 #Enables the graphical display of the database
